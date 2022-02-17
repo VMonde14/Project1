@@ -9,3 +9,5 @@ Download the "Project 1" file and open in unity!
 ## Special controls 
 
 As of right now, there is no navigation. Explore the room in the "Scene" view or examine the room from a specific angle in the "Game" view. Enjoy!
+
+[Documentation on the Github Pages Site](https://vmonde14.github.io/Project1/)
